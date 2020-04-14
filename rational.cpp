@@ -85,14 +85,31 @@ bool Rational::operator == (const Rational & r)
 
 ostream& operator<< (ostream &os, const Rational & r)
 {
-    os << r.numerator <<"/"<< r.denominator;
+    os << r.numerator;
+    if(r.denominator!=1)
+        os <<"/"<< r.denominator;
     return os;
 }
 
 int main()
 {
-    Rational r1= Rational(1,2);
-    Rational r2= Rational(2,3);
-    std::cout << r1+r2 << std::endl; //計算(1/2)+(2/3)的值
-    std::cout << Rational(1111111,20000000)*Rational(40000000,3333333) << std::endl; //檢查乘位溢位問題
+    int a,b,c,d;
+    char op;
+    while(cin >> a >> b >> c >> d>> op){
+        Rational r1= Rational(a,b);
+        Rational r2= Rational(c,d);
+        if(op=='+'){
+            std::cout << r1+r2 << std::endl;
+        }
+        if(op=='-'){
+            std::cout << r1-r2 << std::endl;
+        }
+        if(op=='*'){
+            std::cout << r1*r2 << std::endl;
+        }
+        if(op=='/'){
+            std::cout << r1/r2 << std::endl;
+        }
+    }
+    return 0;
 }
