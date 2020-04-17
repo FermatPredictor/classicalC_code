@@ -6,8 +6,8 @@ using namespace std;
 //把相鄰的1都變成W
 void flooding(vector<vector<char>>& Map, int pr, int pc)
 {
-    static int R = Map.size();
-    static int C = Map[0].size();
+    int R = Map.size();
+    int C = Map[0].size();
     
     Map[pr][pc] = 'W';
     if(pr+1<R && Map[pr+1][pc]=='1')
