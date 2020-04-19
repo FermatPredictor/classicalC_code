@@ -4,6 +4,7 @@ c++程式博大精深，這邊列舉學習c++可能碰到的經典程式供參�
 | --- | --- | --- |
 |利用class及重載運算子，實作有理數的加減乘除|[zerojudge- b538: 分數運算-2](https://zerojudge.tw/ShowProblem?problemid=b538)|[rational](https://github.com/FermatPredictor/classicalC_code/blob/master/rational.cpp)|
 |計算第n個費式數|[LeetCode 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[fibonacci](https://github.com/FermatPredictor/classicalC_code/blob/master/fibonacci.cpp)|
+|二進制~36進制互相轉換|[zerojudge- c665: 進制轉換](https://zerojudge.tw/ShowProblem?problemid=c665)|[進制轉換](https://github.com/FermatPredictor/classicalC_code/blob/master/%E9%80%B2%E5%88%B6%E8%BD%89%E6%8F%9B.cpp)|
 |解二元一次方程式|[zerojudge- a410: 解方程](https://zerojudge.tw/ShowProblem?problemid=a410)|[二元一次方程式](https://github.com/FermatPredictor/classicalC_code/blob/master/%E4%BA%8C%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E5%BC%8F.cpp)|
 |解一元二次方程式|[zerojudge- a006: 一元二次方程式](https://zerojudge.tw/ShowProblem?problemid=a006)|[一元二次方程式](https://github.com/FermatPredictor/classicalC_code/blob/master/%E4%B8%80%E6%AC%A1%E4%BA%8C%E6%AC%A1%E6%96%B9%E7%A8%8B%E5%BC%8F.cpp)|
 |判斷質數(基礎版)|[zerojudge- b513: 判斷質數-商競103](https://zerojudge.tw/ShowProblem?problemid=b513)|[isPrime](https://github.com/FermatPredictor/classicalC_code/blob/master/isPrime.cpp)|
