@@ -36,7 +36,7 @@ int main()
 {
     int in_base, out_base;
     string s;
-    while(std::cin >>s >> in_base>> out_base){
+    while(std::cin >> s >> in_base>> out_base){
         std::cout << trans(s,in_base,out_base) << std::endl;
     }
     return 0;
