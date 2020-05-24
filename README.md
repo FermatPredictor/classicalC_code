@@ -13,6 +13,7 @@ c++程式博大精深，這邊列舉學習c++可能碰到的經典程式供參�
 |質因數分解(基礎版)|[zerojudge- a010: 因數分解](https://zerojudge.tw/ShowProblem?problemid=a010)|[primeFactorization](https://github.com/FermatPredictor/classicalC_code/blob/master/primeFactorization.cpp)|
 |質因數分解(建表快速版，可解到int級別)|[zerojudge- d121: 00583 - Prime Factors](https://zerojudge.tw/ShowProblem?problemid=d121)|[primeFactor_table](https://github.com/FermatPredictor/classicalC_code/blob/master/primeFactor_table.cpp)|
 |求正整數最大的質因數(建表快速版)|[zerojudge- d276: 轉了一圈](https://zerojudge.tw/ShowProblem?problemid=d276)|[maxFactor](https://github.com/FermatPredictor/classicalC_code/blob/master/maxFactor.cpp)|
+|計算兩個矩陣相乘|[zerojudge- d481: 矩陣乘法](https://zerojudge.tw/ShowProblem?problemid=d481)|[matrixMul](https://github.com/FermatPredictor/classicalC_code/blob/master/matrixMul.cpp)|
 
 
 ## 排列組合
