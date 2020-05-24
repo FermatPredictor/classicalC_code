@@ -22,6 +22,11 @@ c++程式博大精深，這邊列舉學習c++可能碰到的經典程式供參�
 |A, B是兩個陣列，彼此為重新排列(有一對一關係)，求A的元素對應到B的相同元素的哪一個index||[one_to_one_correspond](https://github.com/FermatPredictor/classicalC_code/blob/master/one_to_one_correspond.cpp)|
 |窮舉Cartesian product的結果||[Cartesian_product](https://github.com/FermatPredictor/classicalC_code/blob/master/Cartesian_product.cpp)|
 
+## 經典問題
+|功能|可參考題目| 程式|
+| --- | --- | --- |
+|解河內塔問題，求第nth的移動步|[zerojudge- e790: a1.倉庫整理 (Warehouse)](https://zerojudge.tw/ShowProblem?problemid=e790)|[hanoi](https://github.com/FermatPredictor/classicalC_code/blob/master/hanoi.cpp)|
+
 ## 未分類
 |功能|可參考題目| 程式|
 | --- | --- | --- |
