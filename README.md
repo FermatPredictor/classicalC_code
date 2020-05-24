@@ -1,5 +1,6 @@
 # C++ 經典程序
 c++程式博大精深，這邊列舉學習c++可能碰到的經典程式供參考學習
+## 數學
 |功能|可參考題目| 程式|
 | --- | --- | --- |
 |利用class及重載運算子，實作有理數的加減乘除|[zerojudge- b538: 分數運算-2](https://zerojudge.tw/ShowProblem?problemid=b538)|[rational](https://github.com/FermatPredictor/classicalC_code/blob/master/rational.cpp)|
@@ -12,6 +13,15 @@ c++程式博大精深，這邊列舉學習c++可能碰到的經典程式供參�
 |質因數分解(基礎版)|[zerojudge- a010: 因數分解](https://zerojudge.tw/ShowProblem?problemid=a010)|[primeFactorization](https://github.com/FermatPredictor/classicalC_code/blob/master/primeFactorization.cpp)|
 |質因數分解(建表快速版，可解到int級別)|[zerojudge- d121: 00583 - Prime Factors](https://zerojudge.tw/ShowProblem?problemid=d121)|[primeFactor_table](https://github.com/FermatPredictor/classicalC_code/blob/master/primeFactor_table.cpp)|
 |求正整數最大的質因數(建表快速版)|[zerojudge- d276: 轉了一圈](https://zerojudge.tw/ShowProblem?problemid=d276)|[maxFactor](https://github.com/FermatPredictor/classicalC_code/blob/master/maxFactor.cpp)|
-|將所有相鄰區域標註出來|[LeetCode 200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[pouringWater](https://github.com/FermatPredictor/classicalC_code/blob/master/pouringWater.cpp)|
+
+
+## 排列組合
+|功能|可參考題目| 程式|
+| --- | --- | --- |
 |A, B是兩個陣列，彼此為重新排列(有一對一關係)，求A的元素對應到B的相同元素的哪一個index||[one_to_one_correspond](https://github.com/FermatPredictor/classicalC_code/blob/master/one_to_one_correspond.cpp)|
 |窮舉Cartesian product的結果||[Cartesian_product](https://github.com/FermatPredictor/classicalC_code/blob/master/Cartesian_product.cpp)|
+
+## 未分類
+|功能|可參考題目| 程式|
+| --- | --- | --- |
+|將所有相鄰區域標註出來|[LeetCode 200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[pouringWater](https://github.com/FermatPredictor/classicalC_code/blob/master/pouringWater.cpp)|
