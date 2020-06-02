@@ -15,6 +15,10 @@ c++程式博大精深，這邊列舉學習c++可能碰到的經典程式供參�
 |求正整數最大的質因數(建表快速版)|[zerojudge- d276: 轉了一圈](https://zerojudge.tw/ShowProblem?problemid=d276)|[maxFactor](https://github.com/FermatPredictor/classicalC_code/blob/master/maxFactor.cpp)|
 |計算兩個矩陣相乘|[zerojudge- d481: 矩陣乘法](https://zerojudge.tw/ShowProblem?problemid=d481)|[matrixMul](https://github.com/FermatPredictor/classicalC_code/blob/master/matrixMul.cpp)|
 
+## 漂亮的圖形
+|功能|可參考題目| 程式|
+| --- | --- | --- |
+|印出字母菱形||[字母菱形](https://github.com/FermatPredictor/classicalC_code/blob/master/%E5%AD%97%E6%AF%8D%E8%8F%B1%E5%BD%A2.cpp)|
 
 ## 排列組合
 |功能|可參考題目| 程式|
@@ -26,8 +30,7 @@ c++程式博大精深，這邊列舉學習c++可能碰到的經典程式供參�
 |功能|可參考題目| 程式|
 | --- | --- | --- |
 |解河內塔問題，求第nth的移動步|[zerojudge- e790: a1.倉庫整理 (Warehouse)](https://zerojudge.tw/ShowProblem?problemid=e790)|[hanoi](https://github.com/FermatPredictor/classicalC_code/blob/master/hanoi.cpp)|
-
-## 未分類
-|功能|可參考題目| 程式|
-| --- | --- | --- |
 |將所有相鄰區域標註出來|[LeetCode 200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[pouringWater](https://github.com/FermatPredictor/classicalC_code/blob/master/pouringWater.cpp)|
+
+
+
