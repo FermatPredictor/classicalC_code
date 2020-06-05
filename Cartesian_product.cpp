@@ -17,26 +17,14 @@ void print(const vector<vector<int>>& v)
     cout << "}" << endl;
 }
 
+// 函數功能: 求Cartesian_product
+// 一般情形下，我們可以假設input list不會有空的
 vector<vector<int>> product(const vector<vector<int>>& lists)
 {
-    vector<vector<int>> result;
-
-    //如果input list 有一個為空，回傳空的vector<vector<int>>
-    for(vector<int> list: lists)
-    {
-        if(list.empty())
-        {
-            return result;
-        }
-    }
-
-    for (int e : lists[0])
-    {
-        result.push_back({ e });
-    }
+    vector<vector<int>> result = {{}};
 
     //逐步添增Cartesian product的結果
-    for (int i = 1; i < lists.size(); i++)
+    for (int i = 0; i < lists.size(); i++)
     {
         vector<vector<int>> temp;
         for (vector<int>& e : result)
@@ -63,7 +51,8 @@ int main()
         { { }, { 1, 2 } },
         { { 1776, 1789 }, { 7, 12 }, { 4, 14, 23 }, { 0, 1 } },
         { { 1, 2, 3 }, { 30 }, { 500, 100 } },
-        { { 1, 2, 3 }, { }, { 500, 100 } }
+        { { 1, 2, 3 }, { }, { 500, 100 } },
+        { }
     };
     for (const auto& p : prods)
     {
