@@ -23,7 +23,7 @@ c++程式博大精深，這邊列舉學習c++可能碰到的經典程式供參�
 ## 排列組合、窮舉
 |功能|可參考題目| 程式|
 | --- | --- | --- |
-| 用DFS將多元一次方程的非負整數解印出 | [zerojudge- b511: 換銅板](https://zerojudge.tw/ShowProblem?problemid=b511)| []() |
+| 用DFS將多元一次方程的非負整數解印出 | [zerojudge- b511: 換銅板](https://zerojudge.tw/ShowProblem?problemid=b511)| [多元一次方程的非負整數解](https://github.com/FermatPredictor/classicalC_code/blob/master/%E5%A4%9A%E5%85%83%E4%B8%80%E6%AC%A1%E6%96%B9%E7%A8%8B%E7%9A%84%E9%9D%9E%E8%B2%A0%E6%95%B4%E6%95%B8%E8%A7%A3.cpp) |
 |A, B是兩個陣列，彼此為重新排列(有一對一關係)，求A的元素對應到B的相同元素的哪一個index||[one_to_one_correspond](https://github.com/FermatPredictor/classicalC_code/blob/master/one_to_one_correspond.cpp)|
 |窮舉Cartesian product的結果||[Cartesian_product](https://github.com/FermatPredictor/classicalC_code/blob/master/Cartesian_product.cpp)|
 |給定一個集合(元素全相異)，窮舉所有可能的子集||[subset_1](https://github.com/FermatPredictor/classicalC_code/blob/master/subset_1.cpp)|
