@@ -34,6 +34,7 @@ c++程式博大精深，這邊列舉學習c++可能碰到的經典程式供參�
 |窮舉n個相異元素取k個|[zerojudge- d115: 數字包牌](https://zerojudge.tw/ShowProblem?problemid=d115)|[combination](https://github.com/FermatPredictor/classicalC_code/blob/master/combination.cpp)|
 |給定一個集合(元素全相異)，窮舉所有可能的子集||[subset_1](https://github.com/FermatPredictor/classicalC_code/blob/master/subset_1.cpp)|
 |給定一個multiset(元素可能重複)，窮舉所有可能的子集(不可重複)||[subset_2](https://github.com/FermatPredictor/classicalC_code/blob/master/subset_2.cpp)|
+|給定一個正整數，把它所有的可能總和分解列出來||[partition](https://github.com/FermatPredictor/classicalC_code/blob/master/partition.cpp)|
 
 
 ## 經典問題
