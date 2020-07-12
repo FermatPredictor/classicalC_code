@@ -18,7 +18,7 @@ c++程式博大精深，這邊列舉學習c++可能碰到的經典程式供參�
 |功能|可參考題目| 程式|
 | --- | --- | --- |
 |計算兩個矩陣相乘|[zerojudge- d481: 矩陣乘法](https://zerojudge.tw/ShowProblem?problemid=d481)|[matrixMul](https://github.com/FermatPredictor/classicalC_code/blob/master/matrixMul.cpp)|
-|計算兩個矩陣相乘|[zerojudge- b965: 第 2 題 矩陣轉換](https://zerojudge.tw/ShowProblem?problemid=b965)|[matrix_rotate_and_filp](https://github.com/FermatPredictor/classicalC_code/blob/master/matrix_rotate_and_filp.cpp)|
+|矩陣旋轉、翻轉|[zerojudge- b965: 第 2 題 矩陣轉換](https://zerojudge.tw/ShowProblem?problemid=b965)|[matrix_rotate_and_filp](https://github.com/FermatPredictor/classicalC_code/blob/master/matrix_rotate_and_filp.cpp)|
 
 ## 漂亮的圖形
 |功能|可參考題目| 程式|
